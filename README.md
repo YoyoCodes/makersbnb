@@ -40,5 +40,8 @@ Being our first project of this nature, we wanted to be very thorough in our wor
 5. Run `rackup` from the comman line and open localhost:9292 in your browser
 6. Use `rspec` to run the tests from the commnad line
 
-### Final product
+## Final product
+### [Deployed to Heroku](https://nameless-plains-20903.herokuapp.com/)
 <a href="https://ibb.co/i059id"><img src="https://preview.ibb.co/eP2Bwy/The_Posh_Couch.png" alt="The_Posh_Couch" border="0"></a>
+
+
