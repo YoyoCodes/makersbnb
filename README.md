@@ -28,8 +28,8 @@ Being our first project of this nature, we wanted to be very thorough in our wor
 * creating a rake file to help set up the project on different machines
 
 **What I consolidated:**
--persistance via database
--MVC
+*persistance via database
+*MVC
 
 ## How to install/ set up a local database/ run code/ run tests
 
