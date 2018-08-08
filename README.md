@@ -2,7 +2,7 @@
 
 The Posh Couch was a group project from week 6 of Makers Academy. After working with Ruby for almost 2 months and 1 week of Javascript, we were given the task to create an Air-Bnb clone project in our language of choice.
 
-## Aproach
+## Approach
 After an initial brainstorm session we were all excited about the idea of creating an app that uses Ruby on the server side and Javascript in the client side. We also had an in depth talk about our personal objectives for this project and and how we could aling them with the ultimate goal - creating well-tested polished final product.
 
 We first decided on our MVP - being able to list "spaces" and discussed what extra features we could implement in the given time: introducing users that can sign up and log in, postin spaces as themselves and adding images for the listed spaces. 
